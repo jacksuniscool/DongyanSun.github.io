@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/talkmap/jack.png"
+  avatar           : "jack.jpg"
   name             : "Dongyan Sun"
   pronouns         : # example: "he/him"  
   bio              : "Hi, I'm Dongyan Sun, a B.S/M.S ECE student at University of Southern California "
